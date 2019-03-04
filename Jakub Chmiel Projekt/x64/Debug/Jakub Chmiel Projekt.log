@@ -1,0 +1,52 @@
+﻿  Vehicles.cpp
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\vehicles.cpp(7): error C2664: 'void Vehicle::setAcceleration(int &)': cannot convert argument 1 from 'double' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\vehicles.cpp(8): error C2664: 'void Vehicle::setSpeed(int &)': cannot convert argument 1 from 'int' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\vehicles.cpp(9): error C2664: 'void Vehicle::setBraking(int &)': cannot convert argument 1 from 'double' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\vehicles.cpp(10): error C2664: 'void Vehicle::setHandling(int &)': cannot convert argument 1 from 'double' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\vehicles.cpp(11): error C2664: 'void Vehicle::setMass(int &)': cannot convert argument 1 from 'int' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\vehicles.cpp(12): error C2664: 'void Vehicle::setOffroad(int &)': cannot convert argument 1 from 'double' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\vehicles.cpp(13): error C2660: 'Vehicle::getVehClass': function does not take 1 arguments
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\vehicles.cpp(14): error C2660: 'Vehicle::getName': function does not take 1 arguments
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\vehicles.cpp(15): error C2660: 'Vehicle::getCylinder': function does not take 1 arguments
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\vehicles.cpp(20): error C2761: 'Vehicle::~Vehicle(void)': member function redeclaration not allowed
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\vehicles.cpp(21): error C2447: '{': missing function header (old-style formal list?)
+  Truck.cpp
+  stdafx.cpp
+  Jakub Chmiel Projekt.cpp
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\card.h(20): error C2440: '=': cannot convert from 'Vehicle' to 'Vehicle *'
+  d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\card.h(20): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\jakub chmiel projekt.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\jakub chmiel projekt.cpp(24): error C2143: syntax error: missing ',' before '<'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\jakub chmiel projekt.cpp(24): error C2086: 'int roundCount': redefinition
+  d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\jakub chmiel projekt.cpp(24): note: see declaration of 'roundCount'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\jakub chmiel projekt.cpp(25): error C2143: syntax error: missing ';' before '{'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\jakub chmiel projekt.cpp(26): error C2065: 'i': undeclared identifier
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\jakub chmiel projekt.cpp(26): error C2065: 'j': undeclared identifier
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\jakub chmiel projekt.cpp(26): error C2059: syntax error: ';'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\jakub chmiel projekt.cpp(27): error C2059: syntax error: '}'
+  Card.cpp
+  Car.cpp
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(5): error C2664: 'void Vehicle::setAcceleration(int &)': cannot convert argument 1 from 'double' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(6): error C2664: 'void Vehicle::setSpeed(int &)': cannot convert argument 1 from 'int' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(7): error C2664: 'void Vehicle::setBraking(int &)': cannot convert argument 1 from 'double' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(8): error C2664: 'void Vehicle::setHandling(int &)': cannot convert argument 1 from 'double' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(9): error C2664: 'void Vehicle::setMass(int &)': cannot convert argument 1 from 'int' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(10): error C2664: 'void Vehicle::setOffroad(int &)': cannot convert argument 1 from 'double' to 'int &'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(11): error C2660: 'Vehicle::getVehClass': function does not take 1 arguments
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(12): error C2660: 'Vehicle::getName': function does not take 1 arguments
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(15): error C2509: 'printVehicleData': member function not declared in 'Car'
+  d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.h(4): note: see declaration of 'Car'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(18): error C2761: 'Car::~Car(void)': member function redeclaration not allowed
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(19): error C2447: '{': missing function header (old-style formal list?)
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(25): error C2660: 'Vehicle::setAcceleration': function does not take 0 arguments
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(26): error C2660: 'Vehicle::setSpeed': function does not take 0 arguments
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(27): error C2660: 'Vehicle::setBraking': function does not take 0 arguments
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(28): error C2660: 'Vehicle::setHandling': function does not take 0 arguments
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(29): error C2660: 'Vehicle::setMass': function does not take 0 arguments
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(30): error C2660: 'Vehicle::setOffroad': function does not take 0 arguments
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(36): error C2509: 'printVehicleData': member function not declared in 'Sport'
+  d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.h(18): note: see declaration of 'Sport'
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(39): error C2761: 'Sport::~Sport(void)': member function redeclaration not allowed
+d:\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt-20170505t131951z-001\jakub chmiel projekt\jakub chmiel projekt\car.cpp(40): error C2447: '{': missing function header (old-style formal list?)
+  Bike.cpp
+  Generating Code...
